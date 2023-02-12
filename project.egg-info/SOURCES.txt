@@ -1,0 +1,13 @@
+setup.py
+amatex_spider/__init__.py
+amatex_spider/items.py
+amatex_spider/middlewares.py
+amatex_spider/pipelines.py
+amatex_spider/settings.py
+amatex_spider/spiders/__init__.py
+amatex_spider/spiders/amatex_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
